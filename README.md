@@ -1,2 +1,5 @@
 # hello-world
-学习
+
+```python
+print('Hello, World!')
+```
